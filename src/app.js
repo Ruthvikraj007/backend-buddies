@@ -114,6 +114,7 @@ app.use(cors({
       "http://localhost:3000",
       "http://127.0.0.1:3001",
       "http://192.168.0.195:3001"
+      "https://backend-buddies.onrender.com"
     ];
     
     // Allow any origin from local network (192.168.x.x)
